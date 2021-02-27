@@ -1,8 +1,8 @@
 {
   "kind": "singleType",
-  "collectionName": "lading_pages",
+  "collectionName": "landing_pages",
   "info": {
-    "name": "LadingPage",
+    "name": "LandingPage",
     "description": ""
   },
   "options": {
